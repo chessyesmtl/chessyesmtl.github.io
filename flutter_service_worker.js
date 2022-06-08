@@ -3,16 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "4d3b5d9de90ad054113a91c282a187f2",
+  "assets/AssetManifest.json": "7014c542cb2060adad9aeb9bed13c014",
 "assets/assets/fonts/BebasNeue/BebasNeue-Regular.ttf": "47f711bd1524b9283aa92d3d74db16a8",
 "assets/assets/images/background_pic.jpg": "aaff1cbb11415184c68801a9edd0fef4",
 "assets/assets/images/Chessboard.jpg": "635bb0a4d867ea4e3a8cd0a0d0c88669",
+"assets/assets/images/Free%2520Document%2520Preview%25201.jpg": "98d17f53ea50eaa00fab0041394a4e20",
+"assets/assets/images/Free%2520Document%2520Preview.jpg": "ede5b16312ef70ecf8e8c647adf82eb6",
 "assets/assets/images/QueenToButton.png": "855265bed862d639bca115065279a9aa",
 "assets/assets/images/QueenToButtonOG.png": "d465dd42e4dd91bd7dfc76d1c1aed153",
 "assets/assets/images/TeamMemberImage1.jpg": "83e5b460e24f907181492e2f017af7c5",
 "assets/FontManifest.json": "9a35df4740e11061f8ebc4a60b22779e",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "38cc7f68e8d2fda500b1c53af82534c9",
+"assets/NOTICES": "a2a529592a5d19878a3a8e5f14c85074",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/shaders/ink_sparkle.frag": "1fb123680cac0210963c7be43bca9013",
 "favicon.png": "437e0ac56f7e6701d3eda575f38ea2cb",
@@ -20,9 +22,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5dd87692a55169297eb0b08478e1e459",
-"/": "5dd87692a55169297eb0b08478e1e459",
-"main.dart.js": "148230ee44250eedee283db3c5559c4e",
+"index.html": "658c0cb031f5fb3f061ba4497d062bc0",
+"/": "658c0cb031f5fb3f061ba4497d062bc0",
+"main.dart.js": "543ae312429445750d1b2aab9f426466",
 "manifest.json": "931e05819ff486fb10058213e6bf2e2d",
 "version.json": "87856cf2cf7f702ba8ca3921ad4d70e3"
 };
